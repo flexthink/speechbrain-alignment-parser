@@ -17,6 +17,7 @@ dynamic = ["version"]
 license.file = "LICENSE"
 readme = "README.md"
 requires-python = ">=3.11"
+dependencies = ["pandas>=2.2.0"]
 
 [project.optional-dependencies]
 dev = [
@@ -107,5 +108,3 @@ lint.select = [
 # See https://github.com/DiamondLightSource/python-copier-template/issues/154
 # Remove this line to forbid private member access in tests
 "tests/**/*" = ["SLF001"]
-
-dependencies = ["pandas>=2.2.0"]
