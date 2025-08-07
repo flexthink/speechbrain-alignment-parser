@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 4.1.0
+_src_path: https://github.com/DiamondLightSource/python-copier-template.git
+author_email: ''
+author_name: Artem Ploujnikov
+description: SpeechBrain alignment file parser
+distribution_name: speechbrain-alignment-parser
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: flexthink
+package_name: sbalign
+pypi: false
+repo_name: speechbrain-alignment-parser
+strict_typing: false
+type_checker: pyright

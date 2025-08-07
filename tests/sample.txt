@@ -1,0 +1,348 @@
+%WER 45.72 [ 246 / 538, 155 ins, 32 del, 59 sub ]
+%SER 78.12 [ 25 / 32 ]
+Scored 32 sentences, 0 not present in hyp.
+================================================================================
+ALIGNMENTS
+
+Format:
+<utterance-id>, WER DETAILS
+<eps> ; reference  ; on ; the ; first ;  line
+  I   ;     S      ; =  ;  =  ;   S   ;   D
+ and  ; hypothesis ; on ; the ; third ; <eps>
+================================================================================
+LJ001-0156, %WER 5.88 [ 1 / 17, 0 ins, 0 del, 1 sub ]
+THE ; PAPER ; ON ; WHICH ; THE ; PRINTING ; IS ; TO ; BE ; DONE ; IS ; A ; NECESSARY ; PART ; OF ; OUR ; SUBJECT
+ =  ;   =   ; =  ;   =   ;  =  ;    =     ; =  ; =  ; =  ;  S   ; =  ; = ;     =     ;  =   ; =  ;  =  ;    =
+THE ; PAPER ; ON ; WHICH ; THE ; PRINTING ; IS ; TO ; BE ; AND  ; IS ; A ; NECESSARY ; PART ; OF ; OUR ; SUBJECT
+================================================================================
+LJ001-0049, %WER 630.00 [ 126 / 20, 117 ins, 0 del, 9 sub ]
+AFTER ; HIS ; DEATH ; IN ; THE ; FOURTEEN ; <eps> ; <eps> ; EIGHTIES ; OR ; AT ; LEAST ; BY ; FOURTEEN ;  NINETY  ; <eps> ; PRINTING ; IN ;  VENICE  ; HAD ; DECLINED ; VERY ;   MUCH   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>
+  =   ;  =  ;   =   ; =  ;  =  ;    S     ;   I   ;   I   ;    =     ; =  ; =  ;   =   ; =  ;    S     ;    S     ;   I   ;    =     ; S  ;    S     ;  S  ;    S     ;  S   ;    S     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I
+AFTER ; HIS ; DEATH ; IN ; THE ;  1480S   ;   OR  ;   AT  ; EIGHTIES ; OR ; AT ; LEAST ; BY ;   1492   ; PRINTING ;   IT  ; PRINTING ; IT ; PRINTING ;  IT ; PRINTING ;  IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   I   ; PRINTING ;   IT  ; PRINTING ;   I   ; PRINTING ;   I   ; PRINTING ;   I   ; PRINTING ;   I   ; PRINTING
+================================================================================
+LJ001-0020, %WER 18.18 [ 2 / 11, 1 ins, 0 del, 1 sub ]
+THE ; LOWERCASE ; <eps> ; BEING ; IN ; FACT ; INVENTED ; IN ; THE ; EARLY ; MIDDLE ; AGES
+ =  ;     S     ;   I   ;   =   ; =  ;  =   ;    =     ; =  ;  =  ;   =   ;   =    ;  =
+THE ;   LOWER   ;  CASE ; BEING ; IN ; FACT ; INVENTED ; IN ; THE ; EARLY ; MIDDLE ; AGES
+================================================================================
+LJ001-0093, %WER 37.50 [ 6 / 16, 3 ins, 0 del, 3 sub ]
+THIS ; EXPERIMENT ; WAS ; SO ; FAR ; SUCCESSFUL ; THAT ; ABOUT ; EIGHTEEN ;  FIFTY  ; MESSRS ; <eps> ;  <eps>  ; MILLER ; AND ; RICHARD ; OF ; EDINBURGH ; <eps>
+ =   ;     =      ;  =  ; =  ;  =  ;     =      ;  =   ;   =   ;    S     ;    S    ;   S    ;   I   ;    I    ;   =    ;  =  ;    =    ; =  ;     =     ;   I
+THIS ; EXPERIMENT ; WAS ; SO ; FAR ; SUCCESSFUL ; THAT ; ABOUT ;   1850   ; MESSERS ; MILLER ;  RODE ; MESSERS ; MILLER ; AND ; RICHARD ; OF ; EDINBURGH ;   HO
+================================================================================
+LJ001-0012, %WER 23.53 [ 4 / 17, 1 ins, 3 del, 0 sub ]
+ESPECIALLY ; AS ; NO ; MORE ; TIME ; IS ; OCCUPIED ; OR ; COST ; INCURRED ; IN ; CASTING ; SETTING ;  <eps>  ; OR ; PRINTING ; BEAUTIFUL ; LETTERS
+    =      ; =  ; =  ;  =   ;  =   ; =  ;    =     ; =  ;  =   ;    =     ; =  ;    =    ;    =    ;    I    ; =  ;    D     ;     D     ;    D
+ESPECIALLY ; AS ; NO ; MORE ; TIME ; IS ; OCCUPIED ; OR ; COST ; INCURRED ; IN ; CASTING ; SETTING ; SETTING ; OR ;  <eps>   ;   <eps>   ;  <eps>
+================================================================================
+LJ001-0025, %WER 38.89 [ 7 / 18, 1 ins, 3 del, 3 sub ]
+IMITATES ; A ; MUCH ; FREER ; HAND ; SIMPLER ; ROUNDER ;  <eps>  ; AND ; LESS ; SPIKY ; AND ; THEREFORE ; FAR ; PLEASANTER ;   AND    ; EASIER ;   TO  ;  READ
+   =     ; = ;  =   ;   =   ;  =   ;    =    ;    =    ;    I    ;  =  ;  =   ;   =   ;  =  ;     =     ;  S  ;     S      ;    S     ;   D    ;   D   ;   D
+IMITATES ; A ; MUCH ; FREER ; HAND ; SIMPLER ; ROUNDER ; ROUNDER ; AND ; LESS ; SPIKY ; AND ; THEREFORE ; FOR ;   FIVER    ; FRAPPLER ; <eps>  ; <eps> ; <eps>
+================================================================================
+LJ001-0140, %WER 20.00 [ 3 / 15, 0 ins, 2 del, 1 sub ]
+THE ; DESIRABLE ; THING ; BEING ; THE ; BREAKING ; OF ; THE ; LINE ; AS ; IN ; BONDING ; MASONRY ;   OR  ; BRICKWORK
+ =  ;     =     ;   =   ;   S   ;  =  ;    =     ; =  ;  =  ;  =   ; =  ; =  ;    =    ;    =    ;   D   ;     D
+THE ; DESIRABLE ; THING ;   BS  ; THE ; BREAKING ; OF ; THE ; LINE ; AS ; IN ; BONDING ; MASONRY ; <eps> ;   <eps>
+================================================================================
+LJ001-0169, %WER 54.17 [ 13 / 24, 8 ins, 0 del, 5 sub ]
+THE ; PAPER ; USED ; FOR ; PRINTING ; THE ; SMALL ; HIGHLY ; ORNAMENTED ; FRENCH ; SERVICEBOOKS ;  <eps>  ; <eps>  ; <eps> ; ABOUT ; THE ; BEGINNING ; OF ; THE ; SIXTEENTH ; CENTURY ; IS ; A  ; MODEL ; <eps> ; IN ; THIS ; RESPECT ; <eps> ; <eps> ; <eps> ; <eps>
+ =  ;   =   ;  =   ;  =  ;    =     ;  =  ;   =   ;   =    ;     =      ;   =    ;      S       ;    I    ;   I    ;   I   ;   =   ;  =  ;     =     ; =  ;  =  ;     S     ;    =    ; =  ; S  ;   S   ;   I   ; =  ;  =   ;    S    ;   I   ;   I   ;   I   ;   I
+THE ; PAPER ; USED ; FOR ; PRINTING ; THE ; SMALL ; HIGHLY ; ORNAMENTED ; FRENCH ;      IN      ; SERVICE ; BURBAZ ; BOOKS ; ABOUT ; THE ; BEGINNING ; OF ; THE ;   616TH   ; CENTURY ; IS ; OF ; MAUDE ;  ALL  ; IN ; THIS ;  REXED  ;  THE  ; PAPER ;  USED ;  FOR
+================================================================================
+LJ001-0015, %WER 32.14 [ 9 / 28, 5 ins, 0 del, 4 sub ]
+THE ; FORMS ; OF ; PRINTED ; LETTERS ; SHOULD ; BE ; BEAUTIFUL ; AND ; THAT ; <eps> ; <eps> ; <eps> ; <eps> ; <eps> ; THEIR ; ARRANGEMENT ; ON ; THE ; PAGE ; SHOULD ; BE ; REASONABLE ; AND ;  A  ;   HELP  ; TO ;  THE  ; SHAPELINESS ; OF ; THE ; LETTERS ; THEMSELVES
+ =  ;   =   ; =  ;    =    ;    =    ;   =    ; =  ;     =     ;  =  ;  =   ;   I   ;   I   ;   I   ;   I   ;   I   ;   =   ;      =      ; =  ;  =  ;  =   ;   =    ; =  ;     =      ;  =  ;  S  ;    S    ; =  ;   S   ;      S      ; =  ;  =  ;    =    ;     =
+THE ; FORMS ; OF ; PRINTED ; LETTERS ; SHOULD ; BE ; BEAUTIFUL ; AND ; THAT ;  THAT ;  THEN ;  RAID ;  THAT ;  THAT ; THEIR ; ARRANGEMENT ; ON ; THE ; PAGE ; SHOULD ; BE ; REASONABLE ; AND ; ALL ; ATTEMPT ; TO ; THEIR ;     AIMS    ; OF ; THE ; LETTERS ; THEMSELVES
+================================================================================
+LJ002-0261, %WER 16.67 [ 2 / 12, 0 ins, 1 del, 1 sub ]
+THE ; POORER ; PRISONERS ; WERE ; NOT ; IN ; ABJECT ; WANT ; AS ; IN ; OTHER ; PRISONS
+ =  ;   =    ;     =     ;  =   ;  =  ; =  ;   =    ;  =   ; =  ; =  ;   S   ;    D
+THE ; POORER ; PRISONERS ; WERE ; NOT ; IN ; ABJECT ; WANT ; AS ; IN ;   A   ;  <eps>
+================================================================================
+LJ002-0094, %WER 16.67 [ 2 / 12, 0 ins, 1 del, 1 sub ]
+WITH ; FOUR ; CASEMENTS ; AND ; TWO ; FIREPLACES ; BEING ; ALLOTTED ; FOR ; A ; FEMALE ; INFIRMARY
+ =   ;  =   ;     =     ;  =  ;  =  ;     =      ;   =   ;    =     ;  =  ; = ;   S    ;     D
+WITH ; FOUR ; CASEMENTS ; AND ; TWO ; FIREPLACES ; BEING ; ALLOTTED ; FOR ; A ;  FEE   ;   <eps>
+================================================================================
+LJ002-0035, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+EIGHT ; THE ; PRESS ; YARD
+  S   ;  =  ;   =   ;  S
+  AT  ; THE ; PRESS ; YORK
+================================================================================
+LJ002-0200, %WER 0.00 [ 0 / 14, 0 ins, 0 del, 0 sub ]
+THE ; MARSHAL ; WAS ; SUPPOSED ; TO ; BE ; RESIDENT ; EITHER ; WITHIN ; THE ; PRISON ; OR ; THE ; RULES
+ =  ;    =    ;  =  ;    =     ; =  ; =  ;    =     ;   =    ;   =    ;  =  ;   =    ; =  ;  =  ;   =
+THE ; MARSHAL ; WAS ; SUPPOSED ; TO ; BE ; RESIDENT ; EITHER ; WITHIN ; THE ; PRISON ; OR ; THE ; RULES
+================================================================================
+LJ002-0252, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+THE ; INMATES ; WHO ; EUPHEMISTICALLY ; STYLED ; THEMSELVES ; COLLEGIANS
+ =  ;    =    ;  =  ;        =        ;   =    ;     =      ;     =
+THE ; INMATES ; WHO ; EUPHEMISTICALLY ; STYLED ; THEMSELVES ; COLLEGIANS
+================================================================================
+LJ002-0066, %WER 13.04 [ 3 / 23, 2 ins, 0 del, 1 sub ]
+THE ; MASTER ; FELONS ; SIDE ; CONSISTED ; OF ; A ; YARD ; THE ; SAME ; SIZE ; AS ; THE ; PRECEDING ; <eps> ;   <eps>   ; APPROPRIATED ; NOMINALLY ; TO ; THE ; MOST ; DECENT ; AND ;  BETTERBEHAVED   ; PRISONERS
+ =  ;   =    ;   =    ;  =   ;     =     ; =  ; = ;  =   ;  =  ;  =   ;  =   ; =  ;  =  ;     =     ;   I   ;     I     ;      =       ;     =     ; =  ;  =  ;  =   ;   =    ;  =  ;        S         ;     =
+THE ; MASTER ; FELONS ; SIDE ; CONSISTED ; OF ; A ; YARD ; THE ; SAME ; SIZE ; AS ; THE ; PRECEDING ;  AND  ; PRECEDING ; APPROPRIATED ; NOMINALLY ; TO ; THE ; MOST ; DECENT ; AND ; TUNDBERTOBEHAVED ; PRISONERS
+================================================================================
+LJ002-0037, %WER 9.09 [ 1 / 11, 0 ins, 0 del, 1 sub ]
+LEADING ; TO ; THIRTEEN ; WARDS ; ON ; VARIOUS ; FLOORS ; AND ; A ; DAY ; ROOM
+   =    ; =  ;    S     ;   =   ; =  ;    =    ;   =    ;  =  ; = ;  =  ;  =
+LEADING ; TO ;    13    ; WARDS ; ON ; VARIOUS ; FLOORS ; AND ; A ; DAY ; ROOM
+================================================================================
+LJ002-0137, %WER 44.44 [ 8 / 18, 2 ins, 1 del, 5 sub ]
+SO ; MUCH ; INCONVENIENCE ;  ENSUED ; THAT ; IN ; FIFTEEN ; EIGHTEEN ; THE ; CORPORATION ; OBTAINED ; FROM ; PARLIAMENT ; AN ; ACT ; <eps> ; <eps> ; EMPOWERING ; TWO ; ALDERMEN
+=  ;  =   ;       =       ;    S    ;  =   ; =  ;    S    ;    D     ;  =  ;      =      ;    =     ;  =   ;     =      ; =  ;  S  ;   I   ;   I   ;     =      ;  S  ;    S
+SO ; MUCH ; INCONVENIENCE ; SENSUED ; THAT ; IN ;   1518  ;  <eps>   ; THE ; CORPORATION ; OBTAINED ; FROM ; PARLIAMENT ; AN ; ANT ;  AND  ;  CAT  ; EMPOWERING ;  TO ; ALDERMAN
+================================================================================
+LJ002-0072, %WER 9.52 [ 2 / 21, 2 ins, 0 del, 0 sub ]
+THE ; INMATES ; WERE ; PRIVILEGED ; EITHER ; BY ; ANTECEDENTS ; OR ; <eps> ; <eps> ; THE ; FORTUNATE ; POSSESSION ; OF ; SUFFICIENT ; FUNDS ; TO ; PAY ; THE ; CHARGES ; OF ; THE ; PLACE
+ =  ;    =    ;  =   ;     =      ;   =    ; =  ;      =      ; =  ;   I   ;   I   ;  =  ;     =     ;     =      ; =  ;     =      ;   =   ; =  ;  =  ;  =  ;    =    ; =  ;  =  ;   =
+THE ; INMATES ; WERE ; PRIVILEGED ; EITHER ; BY ; ANTECEDENTS ; OR ;   TO  ;  SOAR ; THE ; FORTUNATE ; POSSESSION ; OF ; SUFFICIENT ; FUNDS ; TO ; PAY ; THE ; CHARGES ; OF ; THE ; PLACE
+================================================================================
+LJ002-0264, %WER 30.00 [ 6 / 20, 2 ins, 0 del, 4 sub ]
+LEGACIES ; HAD ; ALSO ; BEEN ; LEFT ; TO ; FREE ; A ; CERTAIN ; NUMBER ; OF ; DEBTORS ;    <eps>    ; NOTABLY ; THAT ;  OF ; ONE ; HUNDRED ; POUNDS ; PER ; ANNUM ; <eps>
+   =     ;  =  ;  =   ;  =   ;  =   ; =  ;  =   ; = ;    =    ;   =    ; =  ;    =    ;      I      ;    =    ;  =   ;  S  ;  S  ;    =    ;   =    ;  S  ;   S   ;   I
+LEGACIES ; HAD ; ALSO ; BEEN ; LEFT ; TO ; FREE ; A ; CERTAIN ; NUMBER ; OF ; DEBTORS ; NOVERBEDORS ; NOTABLY ; THAT ; OWE ;  A  ; HUNDRED ; POUNDS ; FOR ;   AN  ;  ELM
+================================================================================
+LJ002-0239, %WER 0.00 [ 0 / 8, 0 ins, 0 del, 0 sub ]
+ALSO ; FOR ; PRISONERS ; COMMITTED ; BY ; THE ; ADMIRALTY ; COURT
+ =   ;  =  ;     =     ;     =     ; =  ;  =  ;     =     ;   =
+ALSO ; FOR ; PRISONERS ; COMMITTED ; BY ; THE ; ADMIRALTY ; COURT
+================================================================================
+LJ002-0161, %WER 29.41 [ 5 / 17, 3 ins, 0 del, 2 sub ]
+THESE ; SURELY ; I ; THOUGHT ; SAYS ; MR ; NEILD ; WERE ; BAD ; ENOUGH ; <eps> ; <eps> ; <eps>  ; BUT ;  IT ; WAS ; NOT ; SO ; END ; QUOTE
+  =   ;   =    ; = ;    =    ;  =   ; =  ;   S   ;  =   ;  =  ;   =    ;   I   ;   I   ;   I    ;  =  ;  S  ;  =  ;  =  ; =  ;  =  ;   =
+THESE ; SURELY ; I ; THOUGHT ; SAYS ; MR ;  NALD ; WERE ; BAD ; ENOUGH ;  WERE ;  BAD  ; ENOUGH ; BUT ; TIT ; WAS ; NOT ; SO ; END ; QUOTE
+================================================================================
+LJ002-0210, %WER 21.74 [ 5 / 23, 4 ins, 0 del, 1 sub ]
+THE ; KEEPER ; OF ; THE ; LARGE ; TAPROOM ; CALLED ; THE ; BRACE ; BECAUSE ; IT ; WAS ; ONCE ; KEPT ; BY ; TWO ; BROTHERS ; NAMED ; <eps>  ; <eps> ; PARTRIDGE ; ALSO ; PAID ; <eps> ; <eps> ; HIM ;  TOLL
+ =  ;   =    ; =  ;  =  ;   =   ;    =    ;   =    ;  =  ;   =   ;    =    ; =  ;  =  ;  =   ;  =   ; =  ;  =  ;    =     ;   =   ;   I    ;   I   ;     =     ;  =   ;  =   ;   I   ;   I   ;  =  ;   S
+THE ; KEEPER ; OF ; THE ; LARGE ; TAPROOM ; CALLED ; THE ; BRACE ; BECAUSE ; IT ; WAS ; ONCE ; KEPT ; BY ; TWO ; BROTHERS ; NAMED ; PARTRY ;  MADE ; PARTRIDGE ; ALSO ; PAID ;  ALSO ;  PAID ; HIM ; TROLL
+================================================================================
+LJ002-0178, %WER 18.18 [ 2 / 11, 0 ins, 1 del, 1 sub ]
+AFFIDAVIT ; OF ; SERVICE ; AND ; MANY ; MORE ; AMOUNTING ; IN ; ALL ;  TO ; TWENTYSEVEN
+    =     ; =  ;    =    ;  =  ;  =   ;  =   ;     =     ; =  ;  =  ;  S  ;      D
+AFFIDAVIT ; OF ; SERVICE ; AND ; MANY ; MORE ; AMOUNTING ; IN ; ALL ; 227 ;    <eps>
+================================================================================
+LJ002-0241, %WER 22.22 [ 4 / 18, 1 ins, 1 del, 2 sub ]
+THE ; COURT ; OF ; THE ; MARSHALSEA ; <eps> ; WAS ; INSTITUTED ; BY ; CHARLES ; THE ; FIRST ; IN ; THE ; SIXTH ; YEAR ; OF ; HIS ; REIGN
+ =  ;   =   ; =  ;  =  ;     S      ;   I   ;  =  ;     =      ; =  ;    =    ;  S  ;   D   ; =  ;  =  ;   =   ;  =   ; =  ;  =  ;   =
+THE ; COURT ; OF ; THE ;  MARSHALL  ;  SEA  ; WAS ; INSTITUTED ; BY ; CHARLES ;  I  ; <eps> ; IN ; THE ; SIXTH ; YEAR ; OF ; HIS ; REIGN
+================================================================================
+LJ002-0243, %WER 53.85 [ 14 / 26, 0 ins, 14 del, 0 sub ]
+WITH ; JURISDICTION ; TO ; HOLD ; PLEAS ; IN ; ALL ; ACTIONS ; WITHIN ; THE ; PRESCRIBED ; LIMITS ;  THE  ; COURT ;  WAS  ; CHIEFLY ;  USED ;  FOR  ;  THE  ; RECOVERY ;   OF  ; SMALL ; DEBTS ; UNDER ;  TEN  ; POUNDS
+ =   ;      =       ; =  ;  =   ;   =   ; =  ;  =  ;    =    ;   =    ;  =  ;     =      ;   =    ;   D   ;   D   ;   D   ;    D    ;   D   ;   D   ;   D   ;    D     ;   D   ;   D   ;   D   ;   D   ;   D   ;   D
+WITH ; JURISDICTION ; TO ; HOLD ; PLEAS ; IN ; ALL ; ACTIONS ; WITHIN ; THE ; PRESCRIBED ; LIMITS ; <eps> ; <eps> ; <eps> ;  <eps>  ; <eps> ; <eps> ; <eps> ;  <eps>   ; <eps> ; <eps> ; <eps> ; <eps> ; <eps> ; <eps>
+================================================================================
+LJ003-0253, %WER 0.00 [ 0 / 20, 0 ins, 0 del, 0 sub ]
+CLOTHES ; OR ; PRISON ; UNIFORM ; WOULD ; NOT ; HAVE ; SERVED ; THE ; PURPOSE ; FOR ; A ; DISGUISE ; CAN ; BE ; RAPIDLY ; AND ; SECRETLY ; PUT ; ON
+   =    ; =  ;   =    ;    =    ;   =   ;  =  ;  =   ;   =    ;  =  ;    =    ;  =  ; = ;    =     ;  =  ; =  ;    =    ;  =  ;    =     ;  =  ; =
+CLOTHES ; OR ; PRISON ; UNIFORM ; WOULD ; NOT ; HAVE ; SERVED ; THE ; PURPOSE ; FOR ; A ; DISGUISE ; CAN ; BE ; RAPIDLY ; AND ; SECRETLY ; PUT ; ON
+================================================================================
+LJ003-0122, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+THE ; PRISONER ; MENTIONED ; ABOVE ; WAS ; CONTINUALLY ; PERSECUTED ; BY ; TRIALS ; OF ; THIS ; KIND
+ =  ;    =     ;     =     ;   =   ;  =  ;      =      ;     =      ; =  ;   =    ; =  ;  =   ;  =
+THE ; PRISONER ; MENTIONED ; ABOVE ; WAS ; CONTINUALLY ; PERSECUTED ; BY ; TRIALS ; OF ; THIS ; KIND
+================================================================================
+LJ003-0244, %WER 0.00 [ 0 / 21, 0 ins, 0 del, 0 sub ]
+AT ; THE ; COMMENCEMENT ; OF ; EVERY ; SESSIONS ; SUCH ; OF ; THE ; UNTRIED ; AS ; HAD ; PURCHASED ; EASEMENT ; OF ; IRONS ; WERE ; CALLED ; UP ; AND ; REFETTERED
+=  ;  =  ;      =       ; =  ;   =   ;    =     ;  =   ; =  ;  =  ;    =    ; =  ;  =  ;     =     ;    =     ; =  ;   =   ;  =   ;   =    ; =  ;  =  ;     =
+AT ; THE ; COMMENCEMENT ; OF ; EVERY ; SESSIONS ; SUCH ; OF ; THE ; UNTRIED ; AS ; HAD ; PURCHASED ; EASEMENT ; OF ; IRONS ; WERE ; CALLED ; UP ; AND ; REFETTERED
+================================================================================
+LJ003-0101, %WER 17.39 [ 4 / 23, 3 ins, 0 del, 1 sub ]
+MUST ; HAVE ; HAD ; A ; TENDENCY ; TO ; TURN ; THEM ; INTO ; THE ; WORLD ; HARDENED ; AND ; ACCOMPLISHED ; IN ; THE ; WAYS ; OF ;  VICE  ; <eps> ; AND ; CRIME ; <eps> ; <eps> ; END ; QUOTE
+ =   ;  =   ;  =  ; = ;    =     ; =  ;  =   ;  =   ;  =   ;  =  ;   =   ;    =     ;  =  ;      =       ; =  ;  =  ;  =   ; =  ;   S    ;   I   ;  =  ;   =   ;   I   ;   I   ;  =  ;   =
+MUST ; HAVE ; HAD ; A ; TENDENCY ; TO ; TURN ; THEM ; INTO ; THE ; WORLD ; HARDENED ; AND ; ACCOMPLISHED ; IN ; THE ; WAYS ; OF ; ISANDT ; CRIME ; AND ; CRIME ;  AND  ; CRIME ; END ; QUOTE
+================================================================================
+LJ003-0232, %WER 28.57 [ 4 / 14, 0 ins, 2 del, 2 sub ]
+THESE ; WERE ; FETCHED ;  AWAY ; IN ; A ; LARGE ;  TUB   ;   ON  ;   A   ; TRUCK ; BY ; A ; TURNKEY
+  =   ;  =   ;    =    ;   S   ; =  ; = ;   =   ;   S    ;   D   ;   D   ;   =   ; =  ; = ;    =
+THESE ; WERE ; FETCHED ; WEIGH ; IN ; A ; LARGE ; TABANA ; <eps> ; <eps> ; TRUCK ; BY ; A ; TURNKEY
+================================================================================
+LJ003-0271, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+SOME ; OF ; THE ; WORST ; AND ; MOST ; EXTENSIVE ; BURGLARIES ; WERE ; PLANNED ; THERE
+ =   ; =  ;  =  ;   =   ;  =  ;  =   ;     =     ;     =      ;  =   ;    =    ;   =
+SOME ; OF ; THE ; WORST ; AND ; MOST ; EXTENSIVE ; BURGLARIES ; WERE ; PLANNED ; THERE
+================================================================================
+LJ003-0290, %WER 42.31 [ 11 / 26, 0 ins, 3 del, 8 sub ]
+THE ; COURT ; OF ; ALDERMEN ; APPOINTED ; A ; COMMITTEE ; OF ; ITS ; OWN ; BODY ; ASSISTED ; BY ; THE ; TOWN ; CLERK ; MR ; DANCE  ; CITY ; SURVEYOR ;  SON   ;   TO   ;                                                                                                     THE                                                                                                      ; ARCHITECT ;   OF  ; NEWGATE
+ =  ;   =   ; =  ;    S     ;     =     ; = ;     =     ; =  ;  =  ;  =  ;  =   ;    =     ; =  ;  =  ;  =   ;   =   ; S  ;   S    ;  S   ;    S     ;   S    ;   S    ;                                                                                                      S                                                                                                       ;     D     ;   D   ;    D
+THE ; COURT ; OF ; ALDERMAN ; APPOINTED ; A ; COMMITTEE ; OF ; ITS ; OWN ; BODY ; ASSISTED ; BY ; THE ; TOWN ; CLERK ; MS ; DOWNED ; KIRK ;    MR    ; DENSIS ; CIRCEE ; SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS ;   <eps>   ; <eps> ;  <eps>
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+dWER REPORT
+--------------------------------------------------------------------------------
+%WER 47.06 [ 248 / 527, 165 ins, 31 del, 52 sub ]
+%SER 71.88 [ 23 / 32 ]
+Scored 32 sentences, 0 not present in hyp.
+================================================================================
+ALIGNMENTS
+
+Format:
+<utterance-id>, WER DETAILS
+<eps> ; reference  ; on ; the ; first ;  line
+  I   ;     S      ; =  ;  =  ;   S   ;   D
+ and  ; hypothesis ; on ; the ; third ; <eps>
+================================================================================
+LJ001-0156, %WER 5.88 [ 1 / 17, 0 ins, 0 del, 1 sub ]
+THE ; PAPER ; ON ; WHICH ; THE ; PRINTING ; IS ; TO ; BE ; DONE ; IS ; A ; NECESSARY ; PART ; OF ; OUR ; SUBJECT
+ =  ;   =   ; =  ;   =   ;  =  ;    =     ; =  ; =  ; =  ;  S   ; =  ; = ;     =     ;  =   ; =  ;  =  ;    =
+THE ; PAPER ; ON ; WHICH ; THE ; PRINTING ; IS ; TO ; BE ; AND  ; IS ; A ; NECESSARY ; PART ; OF ; OUR ; SUBJECT
+================================================================================
+LJ001-0049, %WER 700.00 [ 126 / 18, 119 ins, 0 del, 7 sub ]
+AFTER ; HIS ; DEATH ; IN ; THE ; 1480S ; OR ; AT ;  <eps>   ; <eps> ; <eps> ; LEAST ; BY ; 1490 ; PRINTING ; IN ;  VENICE  ; HAD ; DECLINED ; VERY ;   MUCH   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>   ; <eps> ;  <eps>
+  =   ;  =  ;   =   ; =  ;  =  ;   =   ; =  ; =  ;    I     ;   I   ;   I   ;   =   ; =  ;  S   ;    =     ; S  ;    S     ;  S  ;    S     ;  S   ;    S     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I     ;   I   ;    I
+AFTER ; HIS ; DEATH ; IN ; THE ; 1480S ; OR ; AT ; EIGHTIES ;   OR  ;   AT  ; LEAST ; BY ; 1492 ; PRINTING ; IT ; PRINTING ;  IT ; PRINTING ;  IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   IT  ; PRINTING ;   I   ; PRINTING ;   IT  ; PRINTING ;   I   ; PRINTING ;   I   ; PRINTING ;   I   ; PRINTING ;   I   ; PRINTING
+================================================================================
+LJ001-0020, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+THE ; LOWER ; CASE ; BEING ; IN ; FACT ; INVENTED ; IN ; THE ; EARLY ; MIDDLE ; AGES
+ =  ;   =   ;  =   ;   =   ; =  ;  =   ;    =     ; =  ;  =  ;   =   ;   =    ;  =
+THE ; LOWER ; CASE ; BEING ; IN ; FACT ; INVENTED ; IN ; THE ; EARLY ; MIDDLE ; AGES
+================================================================================
+LJ001-0093, %WER 33.33 [ 5 / 15, 4 ins, 0 del, 1 sub ]
+THIS ; EXPERIMENT ; WAS ; SO ; FAR ; SUCCESSFUL ; THAT ; ABOUT ; 1850 ; MEZZERS ; MILLER ; <eps> ;  <eps>  ; <eps>  ; AND ; RICHARD ; OF ; EDINBURGH ; <eps>
+ =   ;     =      ;  =  ; =  ;  =  ;     =      ;  =   ;   =   ;  =   ;    S    ;   =    ;   I   ;    I    ;   I    ;  =  ;    =    ; =  ;     =     ;   I
+THIS ; EXPERIMENT ; WAS ; SO ; FAR ; SUCCESSFUL ; THAT ; ABOUT ; 1850 ; MESSERS ; MILLER ;  RODE ; MESSERS ; MILLER ; AND ; RICHARD ; OF ; EDINBURGH ;   HO
+================================================================================
+LJ001-0012, %WER 23.53 [ 4 / 17, 1 ins, 3 del, 0 sub ]
+ESPECIALLY ; AS ; NO ; MORE ; TIME ; IS ; OCCUPIED ; OR ; COST ; INCURRED ; IN ; CASTING ; SETTING ;  <eps>  ; OR ; PRINTING ; BEAUTIFUL ; LETTERS
+    =      ; =  ; =  ;  =   ;  =   ; =  ;    =     ; =  ;  =   ;    =     ; =  ;    =    ;    =    ;    I    ; =  ;    D     ;     D     ;    D
+ESPECIALLY ; AS ; NO ; MORE ; TIME ; IS ; OCCUPIED ; OR ; COST ; INCURRED ; IN ; CASTING ; SETTING ; SETTING ; OR ;  <eps>   ;   <eps>   ;  <eps>
+================================================================================
+LJ001-0025, %WER 38.89 [ 7 / 18, 1 ins, 3 del, 3 sub ]
+IMITATES ; A ; MUCH ; FREER ; HAND ; SIMPLER ; ROUNDER ;  <eps>  ; AND ; LESS ; SPIKY ; AND ; THEREFORE ; FAR ; PLEASANTER ;   AND    ; EASIER ;   TO  ;  READ
+   =     ; = ;  =   ;   =   ;  =   ;    =    ;    =    ;    I    ;  =  ;  =   ;   =   ;  =  ;     =     ;  S  ;     S      ;    S     ;   D    ;   D   ;   D
+IMITATES ; A ; MUCH ; FREER ; HAND ; SIMPLER ; ROUNDER ; ROUNDER ; AND ; LESS ; SPIKY ; AND ; THEREFORE ; FOR ;   FIVER    ; FRAPPLER ; <eps>  ; <eps> ; <eps>
+================================================================================
+LJ001-0140, %WER 20.00 [ 3 / 15, 0 ins, 2 del, 1 sub ]
+THE ; DESIRABLE ; THING ; BEING ; THE ; BREAKING ; OF ; THE ; LINE ; AS ; IN ; BONDING ; MASONRY ;   OR  ; BRICKWORK
+ =  ;     =     ;   =   ;   S   ;  =  ;    =     ; =  ;  =  ;  =   ; =  ; =  ;    =    ;    =    ;   D   ;     D
+THE ; DESIRABLE ; THING ;   BS  ; THE ; BREAKING ; OF ; THE ; LINE ; AS ; IN ; BONDING ; MASONRY ; <eps> ;   <eps>
+================================================================================
+LJ001-0169, %WER 44.00 [ 11 / 25, 7 ins, 0 del, 4 sub ]
+THE ; PAPER ; USED ; FOR ; PRINTING ; THE ; SMALL ; HIGHLY ; ORNAMENTED ; FRENCH ; <eps> ; SERVICE ; <eps>  ; BOOKS ; ABOUT ; THE ; BEGINNING ; OF ; THE ;  16TH ; CENTURY ; IS ; A  ; MODEL ; <eps> ; IN ; THIS ; RESPECT ; <eps> ; <eps> ; <eps> ; <eps>
+ =  ;   =   ;  =   ;  =  ;    =     ;  =  ;   =   ;   =    ;     =      ;   =    ;   I   ;    =    ;   I    ;   =   ;   =   ;  =  ;     =     ; =  ;  =  ;   S   ;    =    ; =  ; S  ;   S   ;   I   ; =  ;  =   ;    S    ;   I   ;   I   ;   I   ;   I
+THE ; PAPER ; USED ; FOR ; PRINTING ; THE ; SMALL ; HIGHLY ; ORNAMENTED ; FRENCH ;   IN  ; SERVICE ; BURBAZ ; BOOKS ; ABOUT ; THE ; BEGINNING ; OF ; THE ; 616TH ; CENTURY ; IS ; OF ; MAUDE ;  ALL  ; IN ; THIS ;  REXED  ;  THE  ; PAPER ;  USED ;  FOR
+================================================================================
+LJ001-0015, %WER 32.14 [ 9 / 28, 5 ins, 0 del, 4 sub ]
+THE ; FORMS ; OF ; PRINTED ; LETTERS ; SHOULD ; BE ; BEAUTIFUL ; AND ; THAT ; <eps> ; <eps> ; <eps> ; <eps> ; <eps> ; THEIR ; ARRANGEMENT ; ON ; THE ; PAGE ; SHOULD ; BE ; REASONABLE ; AND ;  A  ;   HELP  ; TO ;  THE  ; SHAPELINESS ; OF ; THE ; LETTERS ; THEMSELVES
+ =  ;   =   ; =  ;    =    ;    =    ;   =    ; =  ;     =     ;  =  ;  =   ;   I   ;   I   ;   I   ;   I   ;   I   ;   =   ;      =      ; =  ;  =  ;  =   ;   =    ; =  ;     =      ;  =  ;  S  ;    S    ; =  ;   S   ;      S      ; =  ;  =  ;    =    ;     =
+THE ; FORMS ; OF ; PRINTED ; LETTERS ; SHOULD ; BE ; BEAUTIFUL ; AND ; THAT ;  THAT ;  THEN ;  RAID ;  THAT ;  THAT ; THEIR ; ARRANGEMENT ; ON ; THE ; PAGE ; SHOULD ; BE ; REASONABLE ; AND ; ALL ; ATTEMPT ; TO ; THEIR ;     AIMS    ; OF ; THE ; LETTERS ; THEMSELVES
+================================================================================
+LJ002-0261, %WER 16.67 [ 2 / 12, 0 ins, 1 del, 1 sub ]
+THE ; POORER ; PRISONERS ; WERE ; NOT ; IN ; ABJECT ; WANT ; AS ; IN ; OTHER ; PRISONS
+ =  ;   =    ;     =     ;  =   ;  =  ; =  ;   =    ;  =   ; =  ; =  ;   S   ;    D
+THE ; POORER ; PRISONERS ; WERE ; NOT ; IN ; ABJECT ; WANT ; AS ; IN ;   A   ;  <eps>
+================================================================================
+LJ002-0094, %WER 16.67 [ 2 / 12, 0 ins, 1 del, 1 sub ]
+WITH ; FOUR ; CASEMENTS ; AND ; TWO ; FIREPLACES ; BEING ; ALLOTTED ; FOR ; A ; FEMALE ; INFIRMARY
+ =   ;  =   ;     =     ;  =  ;  =  ;     =      ;   =   ;    =     ;  =  ; = ;   S    ;     D
+WITH ; FOUR ; CASEMENTS ; AND ; TWO ; FIREPLACES ; BEING ; ALLOTTED ; FOR ; A ;  FEE   ;   <eps>
+================================================================================
+LJ002-0035, %WER 50.00 [ 2 / 4, 0 ins, 0 del, 2 sub ]
+8  ; THE ; PRESS ; YARD
+S  ;  =  ;   =   ;  S
+AT ; THE ; PRESS ; YORK
+================================================================================
+LJ002-0200, %WER 0.00 [ 0 / 14, 0 ins, 0 del, 0 sub ]
+THE ; MARSHAL ; WAS ; SUPPOSED ; TO ; BE ; RESIDENT ; EITHER ; WITHIN ; THE ; PRISON ; OR ; THE ; RULES
+ =  ;    =    ;  =  ;    =     ; =  ; =  ;    =     ;   =    ;   =    ;  =  ;   =    ; =  ;  =  ;   =
+THE ; MARSHAL ; WAS ; SUPPOSED ; TO ; BE ; RESIDENT ; EITHER ; WITHIN ; THE ; PRISON ; OR ; THE ; RULES
+================================================================================
+LJ002-0252, %WER 0.00 [ 0 / 7, 0 ins, 0 del, 0 sub ]
+THE ; INMATES ; WHO ; EUPHEMISTICALLY ; STYLED ; THEMSELVES ; COLLEGIANS
+ =  ;    =    ;  =  ;        =        ;   =    ;     =      ;     =
+THE ; INMATES ; WHO ; EUPHEMISTICALLY ; STYLED ; THEMSELVES ; COLLEGIANS
+================================================================================
+LJ002-0066, %WER 26.09 [ 6 / 23, 2 ins, 0 del, 4 sub ]
+THE ; MASTER ;  FELL  ; INSIDE ; CONSISTED ; OF ; A ; YARD ; THE ; SAME ; SIZE ; AS ; THE ; PROCEEDING ; <eps> ;   <eps>   ; APPROPRIATED ; NOMINALLY ; TO ; THE ; MOST ; DECENT ; AND ;  BETTERBEHAVED   ; PRISONERS
+ =  ;   =    ;   S    ;   S    ;     =     ; =  ; = ;  =   ;  =  ;  =   ;  =   ; =  ;  =  ;     S      ;   I   ;     I     ;      =       ;     =     ; =  ;  =  ;  =   ;   =    ;  =  ;        S         ;     =
+THE ; MASTER ; FELONS ;  SIDE  ; CONSISTED ; OF ; A ; YARD ; THE ; SAME ; SIZE ; AS ; THE ; PRECEDING  ;  AND  ; PRECEDING ; APPROPRIATED ; NOMINALLY ; TO ; THE ; MOST ; DECENT ; AND ; TUNDBERTOBEHAVED ; PRISONERS
+================================================================================
+LJ002-0037, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+LEADING ; TO ; 13 ; WARDS ; ON ; VARIOUS ; FLOORS ; AND ; A ; DAY ; ROOM
+   =    ; =  ; =  ;   =   ; =  ;    =    ;   =    ;  =  ; = ;  =  ;  =
+LEADING ; TO ; 13 ; WARDS ; ON ; VARIOUS ; FLOORS ; AND ; A ; DAY ; ROOM
+================================================================================
+LJ002-0137, %WER 37.50 [ 6 / 16, 3 ins, 0 del, 3 sub ]
+SO ; MUCH ; INCONVENIENCE ;  ENSUED ; THAT ; IN ; 1518 ; THE ; CORPORATION ; OBTAINED ; FROM ; PARLIAMENT ; AN ; ACT ; <eps> ; <eps> ; EMPOWERING ; TWO ;  <eps>
+=  ;  =   ;       =       ;    S    ;  =   ; =  ;  =   ;  =  ;      =      ;    =     ;  =   ;     =      ; =  ;  S  ;   I   ;   I   ;     =      ;  S  ;    I
+SO ; MUCH ; INCONVENIENCE ; SENSUED ; THAT ; IN ; 1518 ; THE ; CORPORATION ; OBTAINED ; FROM ; PARLIAMENT ; AN ; ANT ;  AND  ;  CAT  ; EMPOWERING ;  TO ; ALDERMAN
+================================================================================
+LJ002-0072, %WER 27.78 [ 5 / 18, 5 ins, 0 del, 0 sub ]
+THE ; INMATES ; WERE ; PRIVILEGED ; EITHER ; BY ; ANTECEDENTS ; OR ; <eps> ; <eps> ; THE ; FORTUNATE ; POSSESSION ; OF ; SUFFICIENT ; FUNDS ; TO ; PAY ; THE ; CHARGES ; <eps> ; <eps> ; <eps>
+ =  ;    =    ;  =   ;     =      ;   =    ; =  ;      =      ; =  ;   I   ;   I   ;  =  ;     =     ;     =      ; =  ;     =      ;   =   ; =  ;  =  ;  =  ;    =    ;   I   ;   I   ;   I
+THE ; INMATES ; WERE ; PRIVILEGED ; EITHER ; BY ; ANTECEDENTS ; OR ;   TO  ;  SOAR ; THE ; FORTUNATE ; POSSESSION ; OF ; SUFFICIENT ; FUNDS ; TO ; PAY ; THE ; CHARGES ;   OF  ;  THE  ; PLACE
+================================================================================
+LJ002-0264, %WER 38.89 [ 7 / 18, 4 ins, 0 del, 3 sub ]
+LEGACIES ; HAD ; ALSO ; BEEN ; LEFT ; TO ; FREE ; A ; CERTAIN ; NUMBER ; OF ; DEBTORS ;    <eps>    ; NOTABLY ; THAT ;  OF ; 100 ;  <eps>  ; POUNDS ; PER ; <eps> ; <eps>
+   =     ;  =  ;  =   ;  =   ;  =   ; =  ;  =   ; = ;    =    ;   =    ; =  ;    =    ;      I      ;    =    ;  =   ;  S  ;  S  ;    I    ;   =    ;  S  ;   I   ;   I
+LEGACIES ; HAD ; ALSO ; BEEN ; LEFT ; TO ; FREE ; A ; CERTAIN ; NUMBER ; OF ; DEBTORS ; NOVERBEDORS ; NOTABLY ; THAT ; OWE ;  A  ; HUNDRED ; POUNDS ; FOR ;   AN  ;  ELM
+================================================================================
+LJ002-0239, %WER 12.50 [ 1 / 8, 0 ins, 0 del, 1 sub ]
+ALSO ; FOR ; PRISONERS ; COMMITTED ; BY ; THE ; ADMIRALTY ; CORPS
+ =   ;  =  ;     =     ;     =     ; =  ;  =  ;     =     ;   S
+ALSO ; FOR ; PRISONERS ; COMMITTED ; BY ; THE ; ADMIRALTY ; COURT
+================================================================================
+LJ002-0161, %WER 46.67 [ 7 / 15, 5 ins, 0 del, 2 sub ]
+THESE ; SURELY ; I ; THOUGHT ; SAYS ; MR ; NEALD ; WERE ; BAD ; ENOUGH ; <eps> ; <eps> ; <eps>  ; BUT ;  IT ; WAS ; NOT ; SO ; <eps> ; <eps>
+  =   ;   =    ; = ;    =    ;  =   ; =  ;   S   ;  =   ;  =  ;   =    ;   I   ;   I   ;   I    ;  =  ;  S  ;  =  ;  =  ; =  ;   I   ;   I
+THESE ; SURELY ; I ; THOUGHT ; SAYS ; MR ;  NALD ; WERE ; BAD ; ENOUGH ;  WERE ;  BAD  ; ENOUGH ; BUT ; TIT ; WAS ; NOT ; SO ;  END  ; QUOTE
+================================================================================
+LJ002-0210, %WER 29.17 [ 7 / 24, 4 ins, 1 del, 2 sub ]
+THE ; KEEPER ; OF ; THE ; LARGE ;   TAP   ;  ROOM ; CALLED ; THE ; BRACE ; BECAUSE ; IT ; WAS ; ONCE ; KEPT ; BY ; TWO ; BROTHERS ; NAMED ; <eps>  ; <eps> ; PARTRIDGE ; ALSO ; PAID ; <eps> ; <eps> ; HIM ;  TOLL
+ =  ;   =    ; =  ;  =  ;   =   ;    S    ;   D   ;   =    ;  =  ;   =   ;    =    ; =  ;  =  ;  =   ;  =   ; =  ;  =  ;    =     ;   =   ;   I    ;   I   ;     =     ;  =   ;  =   ;   I   ;   I   ;  =  ;   S
+THE ; KEEPER ; OF ; THE ; LARGE ; TAPROOM ; <eps> ; CALLED ; THE ; BRACE ; BECAUSE ; IT ; WAS ; ONCE ; KEPT ; BY ; TWO ; BROTHERS ; NAMED ; PARTRY ;  MADE ; PARTRIDGE ; ALSO ; PAID ;  ALSO ;  PAID ; HIM ; TROLL
+================================================================================
+LJ002-0178, %WER 18.18 [ 2 / 11, 0 ins, 1 del, 1 sub ]
+AFFIDAVIT ; OF ; SERVICE ; AND ; MANY ; MORE ; AMOUNTING ; IN ; ALL ;  TO ;   27
+    =     ; =  ;    =    ;  =  ;  =   ;  =   ;     =     ; =  ;  =  ;  S  ;   D
+AFFIDAVIT ; OF ; SERVICE ; AND ; MANY ; MORE ; AMOUNTING ; IN ; ALL ; 227 ; <eps>
+================================================================================
+LJ002-0241, %WER 0.00 [ 0 / 18, 0 ins, 0 del, 0 sub ]
+THE ; COURT ; OF ; THE ; MARSHALL ; SEA ; WAS ; INSTITUTED ; BY ; CHARLES ; I ; IN ; THE ; SIXTH ; YEAR ; OF ; HIS ; REIGN
+ =  ;   =   ; =  ;  =  ;    =     ;  =  ;  =  ;     =      ; =  ;    =    ; = ; =  ;  =  ;   =   ;  =   ; =  ;  =  ;   =
+THE ; COURT ; OF ; THE ; MARSHALL ; SEA ; WAS ; INSTITUTED ; BY ; CHARLES ; I ; IN ; THE ; SIXTH ; YEAR ; OF ; HIS ; REIGN
+================================================================================
+LJ002-0243, %WER 53.85 [ 14 / 26, 0 ins, 14 del, 0 sub ]
+WITH ; JURISDICTION ; TO ; HOLD ; PLEAS ; IN ; ALL ; ACTIONS ; WITHIN ; THE ; PRESCRIBED ; LIMITS ;  THE  ; COURT ;  WAS  ; CHIEFLY ;  USED ;  FOR  ;  THE  ; RECOVERY ;   OF  ; SMALL ; DEBTS ; UNDER ;   10  ; POUNDS
+ =   ;      =       ; =  ;  =   ;   =   ; =  ;  =  ;    =    ;   =    ;  =  ;     =      ;   =    ;   D   ;   D   ;   D   ;    D    ;   D   ;   D   ;   D   ;    D     ;   D   ;   D   ;   D   ;   D   ;   D   ;   D
+WITH ; JURISDICTION ; TO ; HOLD ; PLEAS ; IN ; ALL ; ACTIONS ; WITHIN ; THE ; PRESCRIBED ; LIMITS ; <eps> ; <eps> ; <eps> ;  <eps>  ; <eps> ; <eps> ; <eps> ;  <eps>   ; <eps> ; <eps> ; <eps> ; <eps> ; <eps> ; <eps>
+================================================================================
+LJ003-0253, %WER 0.00 [ 0 / 20, 0 ins, 0 del, 0 sub ]
+CLOTHES ; OR ; PRISON ; UNIFORM ; WOULD ; NOT ; HAVE ; SERVED ; THE ; PURPOSE ; FOR ; A ; DISGUISE ; CAN ; BE ; RAPIDLY ; AND ; SECRETLY ; PUT ; ON
+   =    ; =  ;   =    ;    =    ;   =   ;  =  ;  =   ;   =    ;  =  ;    =    ;  =  ; = ;    =     ;  =  ; =  ;    =    ;  =  ;    =     ;  =  ; =
+CLOTHES ; OR ; PRISON ; UNIFORM ; WOULD ; NOT ; HAVE ; SERVED ; THE ; PURPOSE ; FOR ; A ; DISGUISE ; CAN ; BE ; RAPIDLY ; AND ; SECRETLY ; PUT ; ON
+================================================================================
+LJ003-0122, %WER 0.00 [ 0 / 12, 0 ins, 0 del, 0 sub ]
+THE ; PRISONER ; MENTIONED ; ABOVE ; WAS ; CONTINUALLY ; PERSECUTED ; BY ; TRIALS ; OF ; THIS ; KIND
+ =  ;    =     ;     =     ;   =   ;  =  ;      =      ;     =      ; =  ;   =    ; =  ;  =   ;  =
+THE ; PRISONER ; MENTIONED ; ABOVE ; WAS ; CONTINUALLY ; PERSECUTED ; BY ; TRIALS ; OF ; THIS ; KIND
+================================================================================
+LJ003-0244, %WER 0.00 [ 0 / 21, 0 ins, 0 del, 0 sub ]
+AT ; THE ; COMMENCEMENT ; OF ; EVERY ; SESSIONS ; SUCH ; OF ; THE ; UNTRIED ; AS ; HAD ; PURCHASED ; EASEMENT ; OF ; IRONS ; WERE ; CALLED ; UP ; AND ; REFETTERED
+=  ;  =  ;      =       ; =  ;   =   ;    =     ;  =   ; =  ;  =  ;    =    ; =  ;  =  ;     =     ;    =     ; =  ;   =   ;  =   ;   =    ; =  ;  =  ;     =
+AT ; THE ; COMMENCEMENT ; OF ; EVERY ; SESSIONS ; SUCH ; OF ; THE ; UNTRIED ; AS ; HAD ; PURCHASED ; EASEMENT ; OF ; IRONS ; WERE ; CALLED ; UP ; AND ; REFETTERED
+================================================================================
+LJ003-0101, %WER 28.57 [ 6 / 21, 5 ins, 0 del, 1 sub ]
+MUST ; HAVE ; HAD ; A ; TENDENCY ; TO ; TURN ; THEM ; INTO ; THE ; WORLD ; HARDENED ; AND ; ACCOMPLISHED ; IN ; THE ; WAYS ; OF ;  VICE  ; <eps> ; AND ; CRIME ; <eps> ; <eps> ; <eps> ; <eps>
+ =   ;  =   ;  =  ; = ;    =     ; =  ;  =   ;  =   ;  =   ;  =  ;   =   ;    =     ;  =  ;      =       ; =  ;  =  ;  =   ; =  ;   S    ;   I   ;  =  ;   =   ;   I   ;   I   ;   I   ;   I
+MUST ; HAVE ; HAD ; A ; TENDENCY ; TO ; TURN ; THEM ; INTO ; THE ; WORLD ; HARDENED ; AND ; ACCOMPLISHED ; IN ; THE ; WAYS ; OF ; ISANDT ; CRIME ; AND ; CRIME ;  AND  ; CRIME ;  END  ; QUOTE
+================================================================================
+LJ003-0232, %WER 28.57 [ 4 / 14, 0 ins, 2 del, 2 sub ]
+THESE ; WERE ; FETCHED ;  AWAY ; IN ; A ; LARGE ;  TUB   ;   ON  ;   A   ; TRUCK ; BY ; A ; TURNKEY
+  =   ;  =   ;    =    ;   S   ; =  ; = ;   =   ;   S    ;   D   ;   D   ;   =   ; =  ; = ;    =
+THESE ; WERE ; FETCHED ; WEIGH ; IN ; A ; LARGE ; TABANA ; <eps> ; <eps> ; TRUCK ; BY ; A ; TURNKEY
+================================================================================
+LJ003-0271, %WER 0.00 [ 0 / 11, 0 ins, 0 del, 0 sub ]
+SOME ; OF ; THE ; WORST ; AND ; MOST ; EXTENSIVE ; BURGLARIES ; WERE ; PLANNED ; THERE
+ =   ; =  ;  =  ;   =   ;  =  ;  =   ;     =     ;     =      ;  =   ;    =    ;   =
+SOME ; OF ; THE ; WORST ; AND ; MOST ; EXTENSIVE ; BURGLARIES ; WERE ; PLANNED ; THERE
+================================================================================
+LJ003-0290, %WER 42.31 [ 11 / 26, 0 ins, 3 del, 8 sub ]
+THE ; COURT ; OF ; ALDERMEN ; APPOINTED ; A ; COMMITTEE ; OF ; ITS ; OWN ; BODY ; ASSISTED ; BY ; THE ; TOWN ; CLERK ; MR ; DANTZ  ; CITY ; SURVEYOR ;  SON   ;   TO   ;                                                                                                     THE                                                                                                      ; ARCHITECT ;   OF  ; NEWGATE
+ =  ;   =   ; =  ;    S     ;     =     ; = ;     =     ; =  ;  =  ;  =  ;  =   ;    =     ; =  ;  =  ;  =   ;   =   ; S  ;   S    ;  S   ;    S     ;   S    ;   S    ;                                                                                                      S                                                                                                       ;     D     ;   D   ;    D
+THE ; COURT ; OF ; ALDERMAN ; APPOINTED ; A ; COMMITTEE ; OF ; ITS ; OWN ; BODY ; ASSISTED ; BY ; THE ; TOWN ; CLERK ; MS ; DOWNED ; KIRK ;    MR    ; DENSIS ; CIRCEE ; SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS ;   <eps>   ; <eps> ;  <eps>
+-------------------------------------------------------------------------------
