@@ -7,8 +7,7 @@ RE_ITEM_ERROR_RATE = re.compile(
     r", (?P<ins>\d+) ins, (?P<del>\d+) del, (?P<sub>\d+) sub \]"
 )
 RE_UTT_ERROR_RATE = re.compile(
-    r"%\w+ (?P<error_rate>\d+\.(\d+)?) "
-    r"\[ (?P<errors>\d+) / (?P<total>\d+?) \]"
+    r"%\w+ (?P<error_rate>\d+\.(\d+)?) " r"\[ (?P<errors>\d+) / (?P<total>\d+?) \]"
 )
 
 RE_SEP = re.compile("^=+$")
@@ -36,7 +35,9 @@ class Alignment:
 class AlignmentItem:
     uttid: str = ""
     ref: list = field(default_factory=list)
+    ref_len: int = 0
     hyp: list = field(default_factory=list)
+    hyp_len: int = 0
     alignment: list = field(default_factory=list)
     error_rate: float = 0.0
     errors: int = 0
@@ -146,10 +147,12 @@ def strip_split(line):
 
 def match_ref(line, alignment_item):
     alignment_item.ref = strip_split(line)
+    alignment_item.ref_len = sum(item != "<eps>" for item in alignment_item.ref)
 
 
 def match_hyp(line, alignment_item):
     alignment_item.hyp = strip_split(line)
+    alignment_item.hyp_len = sum(item != "<eps>" for item in alignment_item.hyp)
 
 
 def match_alignment(line, alignment_item):
